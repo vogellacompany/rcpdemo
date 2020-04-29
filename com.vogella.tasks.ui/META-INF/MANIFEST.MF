@@ -13,4 +13,4 @@ Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.e4.core.di.extensions,
  com.vogella.tasks.model;bundle-version="1.0.0"
 Automatic-Module-Name: com.vogella.tasks.ui
-Bundle-RequiredExecutionEnvironment: JavaSE-14
+Bundle-RequiredExecutionEnvironment: JavaSE-11
