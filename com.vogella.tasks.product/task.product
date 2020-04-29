@@ -27,7 +27,7 @@
       <feature id="org.eclipse.e4.rcp" installMode="root"/>
       <feature id="org.eclipse.emf.ecore" installMode="root"/>
       <feature id="org.eclipse.emf.common" installMode="root"/>
-      <feature id="com.vogella.tasks.ui.feature" installMode="root"/>
+      <feature id="com.vogella.tasks.feature" installMode="root"/>
    </features>
 
 
