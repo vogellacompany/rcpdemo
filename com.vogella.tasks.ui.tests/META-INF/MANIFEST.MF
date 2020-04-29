@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tests
+Bundle-SymbolicName: com.vogella.tasks.ui.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: VOGELLA
+Automatic-Module-Name: com.vogella.tasks.ui.tests
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Fragment-Host: com.vogella.tasks.ui
+Require-Bundle: org.junit;bundle-version="4.13.0"
